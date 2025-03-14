@@ -28,3 +28,4 @@ else
 System.out.println("The word '" + searchWord + "' is not found.");
 }
 }
+
