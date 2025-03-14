@@ -35,3 +35,4 @@ result = result.addComplex (ip1, ip2);
 System.out.println ("Sum: " + result.real + "+i" + result.imaginary);
 }
 }
+
