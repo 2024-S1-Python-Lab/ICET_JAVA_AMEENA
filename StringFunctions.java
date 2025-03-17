@@ -19,3 +19,4 @@ System.out.println("The sub string using start index only is "+
 str1.substring(0,4));
 }
 }
+
